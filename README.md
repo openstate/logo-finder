@@ -7,11 +7,11 @@ curl -L https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodr
 yarn install
 ```
 
-Use:
+# Use
 ```bash
 echo '[{"url":"https://openstate.eu/"}]' | yarn -s scrape | jq .
 ```
-will result in:
+result:
 ```json
 {
   "item": {
