@@ -1,0 +1,14 @@
+{
+  "name": "logo-finder",
+  "version": "0.1.0",
+  "description": "Find a logo on a website using Selenium and some JS / querySelector.",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "nodejs index.js"
+  },
+  "author": "Benjamin W. Broersma <bw@broersma.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
