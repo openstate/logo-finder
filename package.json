@@ -4,7 +4,7 @@
   "description": "Find a logo on a website using Selenium and some JS / querySelector.",
   "main": "index.js",
   "scripts": {
-    "scrape": "nodejs index.js"
+    "scrape": "node index.js"
   },
   "author": "Benjamin W. Broersma <bw@broersma.com>",
   "license": "CC0-1.0",
